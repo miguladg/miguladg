@@ -1,10 +1,12 @@
-Hi, I'm Miguel Angel Duarte G
+hola porfa ayudame a corregir este readme, y quita todo lo que no se vea como de verdad: <h2> Hi, I'm Miguel Angel Duarte G <img src="" width="100"></h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2twYzc5cGY1OXg3OG4wMDNyNTVhZnlhMXdncXFiMXoybjBnaDBoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjIYBczW2FeuHs8Yuj/giphy.gif" width="230">
+<p><em>Industrial engineer at <a href="http://www.unb.br">colombia catholic university</a></br>backend developer <a href="https://donrep.co/">DonRep</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-Industrial engineer at colombia catholic university
-backend developer at DonRep
+[![Linkedin: Miguel](https://img.shields.io/badge/-migueladg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/miguel-%C3%A1ngel-duarte-galindo-842700126/)<a>  </a>[![GitHub Miguel](https://img.shields.io/github/followers/miguladg?label=follow&style=social)](https://github.com/miguladg)
 
-[![Linkedin: Miguel](https://img.shields.io/badge/-migueladg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/miguel-%C3%A1ngel-duarte-galindo-842700126/)
-[![GitHub Miguel](https://img.shields.io/github/followers/miguladg?label=follow&style=social)](https://github.com/miguladg)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const migul = {
