@@ -1,4 +1,4 @@
-<h2> Hi, I'm Miguel Angel Duarte G <img src="" width="100"></h2>
+<h2> Hi, I'm Miguel Angel Duarte G </h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2twYzc5cGY1OXg3OG4wMDNyNTVhZnlhMXdncXFiMXoybjBnaDBoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjIYBczW2FeuHs8Yuj/giphy.gif" width="230">
 <p><em>Industrial engineer at <a href="http://www.unb.br">colombia catholic university</a></br>backend developer <a href="https://donrep.co/">DonRep</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
